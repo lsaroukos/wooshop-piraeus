@@ -1,4 +1,4 @@
-=== Wooshop Piraeus Bank Gateway ===
+##Wooshop Piraeus Bank Gateway
 Author URI: https://www.lsaroukos.gr
 Tags: ecommerce, woocommerce, payment gateway
 Tested up to: 5.2.1
